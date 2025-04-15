@@ -1,0 +1,6 @@
+echo ".env
+n8n_data/
+postgres_data/
+redis_data/
+*.log
+.DS_Store" > .gitignore
