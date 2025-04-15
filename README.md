@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # n8n Local Development Setup
 
 This repository contains the configuration for running n8n locally for development and testing purposes, with easy migration path to AWS.
@@ -272,6 +271,4 @@ Common issues and solutions:
    - Check network connectivity
    - Review authentication settings
    - Monitor Redis logs 
-=======
-# n8n-docker-stack
->>>>>>> 7b47f76f8b0bb7cdd816a47fa235aa3cd9305f37
+
